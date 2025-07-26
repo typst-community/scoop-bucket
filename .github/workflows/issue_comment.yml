@@ -2,6 +2,11 @@ on:
   issue_comment:
     types: [created]
 name: Commented Pull Request
+
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
   pullRequestHandler:
     name: PullRequestHandler
