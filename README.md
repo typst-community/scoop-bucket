@@ -13,14 +13,15 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
   - [typstyle](https://typstyle-rs.github.io/typstyle/), a code formatter
   - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online books
 
-- **Conversion**
-
-   - [typlite](https://crates.io/crates/typlite), for converting to markdown
-
 - **Package development**
 
    - [tytanic](https://typst-community.github.io/tytanic/), a test runner
    - [typship](https://github.com/sjfhsjfh/typship), for sending packages to the [universe](https://typst.app/universe/)
+
+- **Miscellaneous**
+
+   - [typlite](https://crates.io/crates/typlite), for converting to markdown
+   - [typst-upgrade](https://github.com/Coekjan/typst-upgrade), for upgrading typst packages
 
 ## How do I install these tools?
 
