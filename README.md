@@ -30,6 +30,10 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
    - [typst-upgrade](https://github.com/Coekjan/typst-upgrade), for upgrading typst packages
    - [typstscript](https://github.com/ChaseRensberger/typstscript), for creating screenplays
 
+- **Extensions**
+
+   - [mdbook-typst-highlight](https://github.com/sitandr/mdbook-typst-highlight), for highlighting typst code in [mdBook](https://rust-lang.github.io/mdBook/)
+
 ## How do I install these tools?
 
 Run the following:
