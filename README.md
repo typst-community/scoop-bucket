@@ -21,6 +21,7 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 - **Miscellaneous**
 
    - [typlite](https://crates.io/crates/typlite), for converting to markdown
+   - [typst-ts-cli](https://myriad-dreamin.github.io/typst.ts/cookery/guide/compiler/ts-cli.html), for running in JavaScriptWorld
    - [typst-upgrade](https://github.com/Coekjan/typst-upgrade), for upgrading typst packages
 
 ## How do I install these tools?
