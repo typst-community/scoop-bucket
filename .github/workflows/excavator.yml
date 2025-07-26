@@ -4,6 +4,10 @@ on:
     # run every 4 hours
     - cron: '20 */4 * * *'
 name: Excavator
+
+permissions:
+  contents: write
+
 jobs:
   excavate:
     name: Excavate
