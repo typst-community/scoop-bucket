@@ -11,7 +11,12 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 
   - [tinymist](https://myriad-dreamin.github.io/tinymist/), an integrated language service
   - [typstyle](https://typstyle-rs.github.io/typstyle/), a code formatter
-  - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online books
+
+- **Conversion and generation**
+
+   - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online book
+   - [typlite](https://crates.io/crates/typlite), for converting to markdown
+   - [typsite](https://typ.rowlib.com/en/), for generating a static sites
 
 - **Package development**
 
@@ -20,7 +25,6 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 
 - **Miscellaneous**
 
-   - [typlite](https://crates.io/crates/typlite), for converting to markdown
    - [typst-ts-cli](https://myriad-dreamin.github.io/typst.ts/cookery/guide/compiler/ts-cli.html), for running in JavaScriptWorld
    - [typst-upgrade](https://github.com/Coekjan/typst-upgrade), for upgrading typst packages
    - [typstscript](https://github.com/ChaseRensberger/typstscript), for creating screenplays
