@@ -11,6 +11,7 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 
   - [tinymist](https://myriad-dreamin.github.io/tinymist/), an integrated language service
   - [typstyle](https://typstyle-rs.github.io/typstyle/), a code formatter
+  - [katvan](https://katvan.app), an editor with a bias for right-to-left editing
 
 - **Conversion and generation**
 
