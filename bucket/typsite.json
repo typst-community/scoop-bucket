@@ -11,7 +11,8 @@
     },
     "bin": "typsite.exe",
     "checkver": {
-        "github": "https://github.com/Glomzzz/typsite"
+        "url": "https://api.github.com/repos/Glomzzz/typsite/releases/latest",
+        "regex": "/releases/tag/(?:v|V)?([-\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
