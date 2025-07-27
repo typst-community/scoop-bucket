@@ -11,16 +11,28 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 
   - [tinymist](https://myriad-dreamin.github.io/tinymist/), an integrated language service
   - [typstyle](https://typstyle-rs.github.io/typstyle/), a code formatter
-  - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online books
+  - [katvan](https://katvan.app), an editor with a bias for right-to-left editing
 
-- **Conversion**
+- **Conversion and generation**
 
+   - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online book
    - [typlite](https://crates.io/crates/typlite), for converting to markdown
+   - [typsite](https://typ.rowlib.com/en/), for generating a static sites
 
 - **Package development**
 
    - [tytanic](https://typst-community.github.io/tytanic/), a test runner
    - [typship](https://github.com/sjfhsjfh/typship), for sending packages to the [universe](https://typst.app/universe/)
+
+- **Miscellaneous**
+
+   - [typst-ts-cli](https://myriad-dreamin.github.io/typst.ts/cookery/guide/compiler/ts-cli.html), for running in JavaScriptWorld
+   - [typst-upgrade](https://github.com/Coekjan/typst-upgrade), for upgrading typst packages
+   - [typstscript](https://github.com/ChaseRensberger/typstscript), for creating screenplays
+
+- **Extensions**
+
+   - [mdbook-typst-highlight](https://github.com/sitandr/mdbook-typst-highlight), for highlighting typst code in [mdBook](https://rust-lang.github.io/mdBook/)
 
 ## How do I install these tools?
 
