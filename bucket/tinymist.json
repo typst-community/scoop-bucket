@@ -1,16 +1,16 @@
 {
-    "version": "0.13.14",
+    "version": "0.13.16",
     "homepage": "https://myriad-dreamin.github.io/tinymist/",
     "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.13.14/tinymist-x86_64-pc-windows-msvc.zip",
-            "hash": "8f71c85eae75c53f50959ff76da7ea84a93b8c8a58cc896eb0d86e86b4b114b0"
+            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.13.16/tinymist-x86_64-pc-windows-msvc.zip",
+            "hash": "dadd801e1f245b1c6b1b9f3207bef653d8582dd4cce3751aed839103c164f91b"
         },
         "arm64": {
-            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.13.14/tinymist-aarch64-pc-windows-msvc.zip",
-            "hash": "8ace6602e45071772f6f3a6e9c6cce9682fb53a3bcbdf4f2778df866cf1b29a0"
+            "url": "https://github.com/Myriad-Dreamin/tinymist/releases/download/v0.13.16/tinymist-aarch64-pc-windows-msvc.zip",
+            "hash": "5e3afdec63df9e49d37ef3d53f7e3bc153118a4c8a264d8146c49f3b11f24ebc"
         }
     },
     "bin": "tinymist.exe",
