@@ -15,9 +15,9 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 
 - **Conversion and generation**
 
-   - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online book
+   - [shiroa](https://myriad-dreamin.github.io/shiroa/), for creating online books
    - [typlite](https://crates.io/crates/typlite), for converting to markdown
-   - [typsite](https://typ.rowlib.com/en/), for generating a static sites
+   - [typsite](https://typ.rowlib.com/en/), for generating static sites
 
 - **Package development**
 
