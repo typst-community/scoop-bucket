@@ -1,6 +1,6 @@
 {
     "version": "0.2.0",
-    "homepage": "https://github.com/astrale-sharp/wasm-minimal-protocol",
+    "homepage": "https://github.com/astrale-sharp/wasm-minimal-protocol#wasi-stub",
     "description": "A tool allowing you to take a wasi compliant WebAssembly file and replace all functions wasi depends on by meaningless stubs.",
     "license": "Unlicense",
     "architecture": {
@@ -11,7 +11,10 @@
         }
     },
     "bin": "wasi-stub.exe",
-    "checkver": "github",
+    "checkver": {
+        "url": "https://api.github.com/repos/astrale-sharp/wasm-minimal-protocol/releases/latest",
+        "regex": "/releases/tag/wasi-stub-(?:v|V)?([-\\d.]+)"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
