@@ -23,6 +23,7 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 
    - [tytanic](https://typst-community.github.io/tytanic/), a test runner
    - [typship](https://github.com/sjfhsjfh/typship), for sending packages to the [universe](https://typst.app/universe/)
+   - [wasi-stub](https://github.com/astrale-sharp/wasm-minimal-protocol), for [stubbing all WASI functions](https://typst.app/docs/reference/foundations/plugin/#wasi) in a WebAssembly file.
 
 - **Miscellaneous**
 
