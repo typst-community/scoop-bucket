@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "homepage": "https://github.com/typst-community/utpm",
+    "description": "A package manager for local and remote Typst packages.",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/typst-community/utpm/releases/download/0.2.0/utpm-x86_64-pc-windows-msvc.zip",
+            "extract_dir": "utpm-x86_64-pc-windows-msvc",
+            "hash": "8ba40ec2e953332f13590dccc9acd5e9e43b8707c757b59b9ebbfff6e70856cb"
+        },
+        "arm64": {
+            "url": "https://github.com/typst-community/utpm/releases/download/0.2.0/utpm-aarch64-pc-windows-msvc.zip",
+            "extract_dir": "utpm-aarch64-pc-windows-msvc",
+            "hash": "1767125e5b24c2592f59fbd73a47bf8b94e97fe3da6bb102972ddcbd84e54ad4"
+        }
+    },
+    "bin": "utpm.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/typst-community/utpm/releases/download/$version/utpm-x86_64-pc-windows-msvc.zip",
+                "extract_dir": "utpm-x86_64-pc-windows-msvc"
+            },
+            "arm64": {
+                "url": "https://github.com/typst-community/utpm/releases/download/$version/utpm-aarch64-pc-windows-msvc.zip",
+                "extract_dir": "utpm-aarch64-pc-windows-msvc"
+            }
+        }
+    }
+}
