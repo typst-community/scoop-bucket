@@ -23,8 +23,9 @@ This bucket contains various unofficial [Typst](https://typst.app/) tools:
 - **Package development**
 
    - [tytanic](https://typst-community.github.io/tytanic/), a test runner
+   - [utpm](https://github.com/typst-community/utpm), an unofficial Typst package manager
    - [typship](https://github.com/sjfhsjfh/typship), for sending packages to the [universe](https://typst.app/universe/)
-   - [wasi-stub](https://github.com/astrale-sharp/wasm-minimal-protocol#wasi-stub), for [stubbing all WASI functions](https://typst.app/docs/reference/foundations/plugin/#wasi) in a WebAssembly file.
+   - [wasi-stub](https://github.com/astrale-sharp/wasm-minimal-protocol#wasi-stub), for [stubbing all WASI functions](https://typst.app/docs/reference/foundations/plugin/#wasi) in a WebAssembly file
 
 - **Miscellaneous**
 
